@@ -1,7 +1,7 @@
 # Hi there, I'm Thirthala Akshith Varma 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=700&height=100&lines=Software+Developer;Problem+Solver;Data+Analyst;Hackathon+Winner;Tech+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=700&height=100&lines=Software+Developer;Problem+Solver;Hackathon+Winner;Tech+Innovator" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -51,19 +51,17 @@ Database Management • Data Structures • Algorithms • Operating Systems •
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,r,html,css,js" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" alt="Programming Languages" />
 </p>
 
 ### Databases & Analytics
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
 </p>
 
 ### Development Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,flask" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
 </p>
 
 ---
